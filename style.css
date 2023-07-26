@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    font-size: 20px;
+}
+
+.container {
+    margin: auto;
+    background-color: white;
+    width: fit-content;
+    height: fit-content;
+    text-align: center;
+}
+
+button {
+    border: 1px solid purple;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    background-color: purple;
+    color: white;
+    cursor: pointer;
+}
+
+span {
+    background-color: purple;
+    color: white;
+    display: block;
+    cursor: pointer;
+}
